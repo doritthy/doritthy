@@ -29,7 +29,7 @@
 <img align="left" alt="R" width="26px" src="https://www.itechart.com/media/images/logo-09.width-800.png" />
 <img align="left" alt="Python" width="26px" src="https://www.python.org/static/opengraph-icon-200x200.png" />
 <img align="left" alt="PHP" width="26px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-php-software-develop-command-language-512.png" />
-<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.png" />
+<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logo@2x.png" />
 <img align="left" alt="GitHub" width="26px" src="https://www.iconninja.com/files/604/580/1001/github-development-code-coding-program-programming-icon.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
