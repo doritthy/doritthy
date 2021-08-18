@@ -1,7 +1,7 @@
 ### Hi there, I'm Adil - aka [doritthy] 👋
 
 
-## I'm a Son, Brother, Junior Developer, and Teacher!!
+## I'm a Son, Brother, Junior Developer, and Teacher!
 
 - 🔭 I just started my journey to become a Senior Developer!
 - 🌱 I’m currently learning everything 🤣
